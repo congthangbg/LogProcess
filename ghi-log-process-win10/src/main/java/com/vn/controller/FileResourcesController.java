@@ -56,7 +56,7 @@ import com.vn.common.sendData;
 public class FileResourcesController {
 	
 	//comment 12345555
-	//branch test111222555
+	//branch test111222555666
 	static final String URL_UPLOAD_FILE = "http://localhost:8080/api/v1/logEncode";
 
 	  private org.slf4j.Logger logger = LoggerFactory.getLogger(FileResourcesController.class);
