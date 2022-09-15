@@ -55,7 +55,7 @@ import com.vn.common.sendData;
 @RestController
 public class FileResourcesController {
 	
-	//comment 1
+	//comment 12
 	
 	static final String URL_UPLOAD_FILE = "http://localhost:8080/api/v1/logEncode";
 
